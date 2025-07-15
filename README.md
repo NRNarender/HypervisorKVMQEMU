@@ -59,7 +59,7 @@ pip install -r requirements.txt
 ### 2. Clone the Repository
 
 ```bash
-git clone https://github.com/NRNarender/Hypervisor.git
+git clone https://github.com/NRNarender/HypervisorKVMQEMU.git
 cd Hypervisor
 ```
 
