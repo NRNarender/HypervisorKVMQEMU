@@ -60,7 +60,7 @@ pip install -r requirements.txt
 
 ```bash
 git clone https://github.com/NRNarender/HypervisorKVMQEMU.git
-cd Hypervisor
+cd HypervisorKVMQEMU
 ```
 
 ### 3. Compile the CLI
